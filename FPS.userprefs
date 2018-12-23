@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\AmmoCount.js">
+    <Files>
+      <File FileName="Assets\scripts\Gun.js" Line="34" Column="27" />
+      <File FileName="Assets\scripts\AmmoCount.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Lanterna.js" Line="7" Column="34" />
+      <File FileName="Assets\scripts\PegarArma.js" Line="6" Column="1" />
+      <File FileName="Assets\scripts\OpenDoor.js" Line="3" Column="23" />
+      <File FileName="Assets\scripts\Score.js" Line="1" Column="24" />
+      <File FileName="Assets\scripts\Enemy.js" Line="10" Column="26" />
+      <File FileName="Assets\scripts\PegarMunicao.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

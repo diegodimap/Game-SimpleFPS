@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 3d3b6f672c0e85946872ba83d92eeba5
+timeCreated: 1497700038
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Base_1
+    100004: Bullet
+    100006: Bullet_1
+    100008: Bullet_2
+    100010: Bullet_3
+    100012: Bullet_4
+    100014: Bullet_5
+    100016: Bullet_6
+    100018: Casing
+    100020: Casing_1
+    100022: Casing_2
+    100024: Casing_3
+    100026: Casing_4
+    100028: Casing_5
+    100030: Casing_6
+    100032: Follower
+    100034: Follower_1
+    100036: Magazine
+    100038: Magazine_1
+    100040: //RootNode
+    100042: Primer
+    100044: Primer_1
+    100046: Primer_2
+    100048: Primer_3
+    100050: Primer_4
+    100052: Primer_5
+    100054: Primer_6
+    100056: Spring
+    100058: Spring_1
+    400000: Base
+    400002: Base_1
+    400004: Bullet
+    400006: Bullet_1
+    400008: Bullet_2
+    400010: Bullet_3
+    400012: Bullet_4
+    400014: Bullet_5
+    400016: Bullet_6
+    400018: Casing
+    400020: Casing_1
+    400022: Casing_2
+    400024: Casing_3
+    400026: Casing_4
+    400028: Casing_5
+    400030: Casing_6
+    400032: Follower
+    400034: Follower_1
+    400036: Magazine
+    400038: Magazine_1
+    400040: //RootNode
+    400042: Primer
+    400044: Primer_1
+    400046: Primer_2
+    400048: Primer_3
+    400050: Primer_4
+    400052: Primer_5
+    400054: Primer_6
+    400056: Spring
+    400058: Spring_1
+    2300000: Base
+    2300002: Base_1
+    2300004: Bullet
+    2300006: Bullet_1
+    2300008: Bullet_2
+    2300010: Bullet_3
+    2300012: Bullet_4
+    2300014: Bullet_5
+    2300016: Bullet_6
+    2300018: Casing
+    2300020: Casing_1
+    2300022: Casing_2
+    2300024: Casing_3
+    2300026: Casing_4
+    2300028: Casing_5
+    2300030: Casing_6
+    2300032: Follower
+    2300034: Follower_1
+    2300036: Magazine
+    2300038: Magazine_1
+    2300040: Primer
+    2300042: Primer_1
+    2300044: Primer_2
+    2300046: Primer_3
+    2300048: Primer_4
+    2300050: Primer_5
+    2300052: Primer_6
+    2300054: Spring
+    2300056: Spring_1
+    3300000: Base
+    3300002: Base_1
+    3300004: Bullet
+    3300006: Bullet_1
+    3300008: Bullet_2
+    3300010: Bullet_3
+    3300012: Bullet_4
+    3300014: Bullet_5
+    3300016: Bullet_6
+    3300018: Casing
+    3300020: Casing_1
+    3300022: Casing_2
+    3300024: Casing_3
+    3300026: Casing_4
+    3300028: Casing_5
+    3300030: Casing_6
+    3300032: Follower
+    3300034: Follower_1
+    3300036: Magazine
+    3300038: Magazine_1
+    3300040: Primer
+    3300042: Primer_1
+    3300044: Primer_2
+    3300046: Primer_3
+    3300048: Primer_4
+    3300050: Primer_5
+    3300052: Primer_6
+    3300054: Spring
+    3300056: Spring_1
+    4300000: Base
+    4300002: Base_1
+    4300004: Bullet
+    4300006: Bullet_1
+    4300008: Bullet_2
+    4300010: Bullet_3
+    4300012: Bullet_4
+    4300014: Bullet_5
+    4300016: Bullet_6
+    4300018: Casing
+    4300020: Casing_1
+    4300022: Casing_2
+    4300024: Casing_3
+    4300026: Casing_4
+    4300028: Casing_5
+    4300030: Casing_6
+    4300032: Follower
+    4300034: Follower_1
+    4300036: Magazine
+    4300038: Magazine_1
+    4300040: Primer
+    4300042: Primer_1
+    4300044: Primer_2
+    4300046: Primer_3
+    4300048: Primer_4
+    4300050: Primer_5
+    4300052: Primer_6
+    4300054: Spring
+    4300056: Spring_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
